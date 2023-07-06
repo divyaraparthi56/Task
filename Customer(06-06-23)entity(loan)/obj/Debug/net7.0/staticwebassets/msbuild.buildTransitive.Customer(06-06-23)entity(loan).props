@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Customer(06-06-23)entity(loan).props" />
+</Project>

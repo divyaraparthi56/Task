@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\jquery(12-06-23).props" />
+</Project>

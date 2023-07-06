@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\studentdb(06-06-2023)entity.props" />
+</Project>

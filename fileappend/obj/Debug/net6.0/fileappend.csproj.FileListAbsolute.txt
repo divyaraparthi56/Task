@@ -1,0 +1,15 @@
+C:\Users\draparthi\source\repos\fileappend\bin\Debug\net6.0\fileappend.exe
+C:\Users\draparthi\source\repos\fileappend\bin\Debug\net6.0\fileappend.deps.json
+C:\Users\draparthi\source\repos\fileappend\bin\Debug\net6.0\fileappend.runtimeconfig.json
+C:\Users\draparthi\source\repos\fileappend\bin\Debug\net6.0\fileappend.dll
+C:\Users\draparthi\source\repos\fileappend\bin\Debug\net6.0\fileappend.pdb
+C:\Users\draparthi\source\repos\fileappend\obj\Debug\net6.0\fileappend.csproj.AssemblyReference.cache
+C:\Users\draparthi\source\repos\fileappend\obj\Debug\net6.0\fileappend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draparthi\source\repos\fileappend\obj\Debug\net6.0\fileappend.AssemblyInfoInputs.cache
+C:\Users\draparthi\source\repos\fileappend\obj\Debug\net6.0\fileappend.AssemblyInfo.cs
+C:\Users\draparthi\source\repos\fileappend\obj\Debug\net6.0\fileappend.csproj.CoreCompileInputs.cache
+C:\Users\draparthi\source\repos\fileappend\obj\Debug\net6.0\fileappend.dll
+C:\Users\draparthi\source\repos\fileappend\obj\Debug\net6.0\refint\fileappend.dll
+C:\Users\draparthi\source\repos\fileappend\obj\Debug\net6.0\fileappend.pdb
+C:\Users\draparthi\source\repos\fileappend\obj\Debug\net6.0\fileappend.genruntimeconfig.cache
+C:\Users\draparthi\source\repos\fileappend\obj\Debug\net6.0\ref\fileappend.dll

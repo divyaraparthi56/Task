@@ -1,0 +1,6 @@
+C:\Users\draparthi\source\repos\DataService\bin\Debug\DataService.dll
+C:\Users\draparthi\source\repos\DataService\bin\Debug\DataService.pdb
+C:\Users\draparthi\source\repos\DataService\obj\Debug\DataService.csproj.AssemblyReference.cache
+C:\Users\draparthi\source\repos\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+C:\Users\draparthi\source\repos\DataService\obj\Debug\DataService.dll
+C:\Users\draparthi\source\repos\DataService\obj\Debug\DataService.pdb

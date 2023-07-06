@@ -1,0 +1,15 @@
+C:\Users\draparthi\source\repos\File1\bin\Debug\net6.0\File1.exe
+C:\Users\draparthi\source\repos\File1\bin\Debug\net6.0\File1.deps.json
+C:\Users\draparthi\source\repos\File1\bin\Debug\net6.0\File1.runtimeconfig.json
+C:\Users\draparthi\source\repos\File1\bin\Debug\net6.0\File1.dll
+C:\Users\draparthi\source\repos\File1\bin\Debug\net6.0\File1.pdb
+C:\Users\draparthi\source\repos\File1\obj\Debug\net6.0\File1.csproj.AssemblyReference.cache
+C:\Users\draparthi\source\repos\File1\obj\Debug\net6.0\File1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draparthi\source\repos\File1\obj\Debug\net6.0\File1.AssemblyInfoInputs.cache
+C:\Users\draparthi\source\repos\File1\obj\Debug\net6.0\File1.AssemblyInfo.cs
+C:\Users\draparthi\source\repos\File1\obj\Debug\net6.0\File1.csproj.CoreCompileInputs.cache
+C:\Users\draparthi\source\repos\File1\obj\Debug\net6.0\File1.dll
+C:\Users\draparthi\source\repos\File1\obj\Debug\net6.0\refint\File1.dll
+C:\Users\draparthi\source\repos\File1\obj\Debug\net6.0\File1.pdb
+C:\Users\draparthi\source\repos\File1\obj\Debug\net6.0\File1.genruntimeconfig.cache
+C:\Users\draparthi\source\repos\File1\obj\Debug\net6.0\ref\File1.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\entity(05-06-23)college.props" />
+</Project>

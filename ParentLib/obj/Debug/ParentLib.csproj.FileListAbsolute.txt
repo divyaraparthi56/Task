@@ -1,0 +1,6 @@
+C:\Users\draparthi\source\repos\ParentLib\bin\Debug\ParentLib.dll
+C:\Users\draparthi\source\repos\ParentLib\bin\Debug\ParentLib.pdb
+C:\Users\draparthi\source\repos\ParentLib\obj\Debug\ParentLib.csproj.AssemblyReference.cache
+C:\Users\draparthi\source\repos\ParentLib\obj\Debug\ParentLib.csproj.CoreCompileInputs.cache
+C:\Users\draparthi\source\repos\ParentLib\obj\Debug\ParentLib.dll
+C:\Users\draparthi\source\repos\ParentLib\obj\Debug\ParentLib.pdb

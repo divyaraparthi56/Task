@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dbcreation(06-06-23)entity.props" />
+</Project>

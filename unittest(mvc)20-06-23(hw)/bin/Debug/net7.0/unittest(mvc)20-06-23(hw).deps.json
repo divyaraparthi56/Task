@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "unittest(mvc)20-06-23(hw)/1.0.0": {
+        "dependencies": {
+          "DataService": "1.0.0",
+          "UserService": "1.0.0"
+        },
+        "runtime": {
+          "unittest(mvc)20-06-23(hw).dll": {}
+        }
+      },
+      "DataService/1.0.0": {
+        "runtime": {
+          "DataService.dll": {}
+        }
+      },
+      "UserService/1.0.0": {
+        "dependencies": {
+          "DataService": "1.0.0"
+        },
+        "runtime": {
+          "UserService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unittest(mvc)20-06-23(hw)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

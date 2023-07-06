@@ -1,0 +1,17 @@
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\bin\Debug\net7.0-windows\WinFormsApp1(sub).exe
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\bin\Debug\net7.0-windows\WinFormsApp1(sub).deps.json
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\bin\Debug\net7.0-windows\WinFormsApp1(sub).runtimeconfig.json
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\bin\Debug\net7.0-windows\WinFormsApp1(sub).dll
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\bin\Debug\net7.0-windows\WinFormsApp1(sub).pdb
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\obj\Debug\net7.0-windows\WinFormsApp1(sub).csproj.AssemblyReference.cache
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\obj\Debug\net7.0-windows\WinFormsApp1_sub_.Form1.resources
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\obj\Debug\net7.0-windows\WinFormsApp1(sub).csproj.GenerateResource.cache
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\obj\Debug\net7.0-windows\WinFormsApp1(sub).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\obj\Debug\net7.0-windows\WinFormsApp1(sub).AssemblyInfoInputs.cache
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\obj\Debug\net7.0-windows\WinFormsApp1(sub).AssemblyInfo.cs
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\obj\Debug\net7.0-windows\WinFormsApp1(sub).csproj.CoreCompileInputs.cache
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\obj\Debug\net7.0-windows\WinFormsApp1(sub).dll
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\obj\Debug\net7.0-windows\refint\WinFormsApp1(sub).dll
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\obj\Debug\net7.0-windows\WinFormsApp1(sub).pdb
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\obj\Debug\net7.0-windows\WinFormsApp1(sub).genruntimeconfig.cache
+C:\Users\draparthi\source\repos\WinFormsApp1(sub)\obj\Debug\net7.0-windows\ref\WinFormsApp1(sub).dll

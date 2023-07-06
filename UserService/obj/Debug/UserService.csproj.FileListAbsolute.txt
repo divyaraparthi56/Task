@@ -1,0 +1,9 @@
+C:\Users\draparthi\source\repos\UserService\bin\Debug\UserService.dll
+C:\Users\draparthi\source\repos\UserService\bin\Debug\UserService.pdb
+C:\Users\draparthi\source\repos\UserService\bin\Debug\DataService.dll
+C:\Users\draparthi\source\repos\UserService\bin\Debug\DataService.pdb
+C:\Users\draparthi\source\repos\UserService\obj\Debug\UserService.csproj.AssemblyReference.cache
+C:\Users\draparthi\source\repos\UserService\obj\Debug\UserService.csproj.CoreCompileInputs.cache
+C:\Users\draparthi\source\repos\UserService\obj\Debug\UserService.csproj.CopyComplete
+C:\Users\draparthi\source\repos\UserService\obj\Debug\UserService.dll
+C:\Users\draparthi\source\repos\UserService\obj\Debug\UserService.pdb

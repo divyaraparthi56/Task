@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\task(05-06-23)employeefullname.props" />
+</Project>

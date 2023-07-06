@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\formauth(13-6-23)microservices.props" />
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\draparthi\source\repos\assesment\bin\Debug\net6.0\assesment.exe
+C:\Users\draparthi\source\repos\assesment\bin\Debug\net6.0\assesment.deps.json
+C:\Users\draparthi\source\repos\assesment\bin\Debug\net6.0\assesment.runtimeconfig.json
+C:\Users\draparthi\source\repos\assesment\bin\Debug\net6.0\assesment.dll
+C:\Users\draparthi\source\repos\assesment\bin\Debug\net6.0\assesment.pdb
+C:\Users\draparthi\source\repos\assesment\obj\Debug\net6.0\assesment.csproj.AssemblyReference.cache
+C:\Users\draparthi\source\repos\assesment\obj\Debug\net6.0\assesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draparthi\source\repos\assesment\obj\Debug\net6.0\assesment.AssemblyInfoInputs.cache
+C:\Users\draparthi\source\repos\assesment\obj\Debug\net6.0\assesment.AssemblyInfo.cs
+C:\Users\draparthi\source\repos\assesment\obj\Debug\net6.0\assesment.csproj.CoreCompileInputs.cache
+C:\Users\draparthi\source\repos\assesment\obj\Debug\net6.0\assesment.dll
+C:\Users\draparthi\source\repos\assesment\obj\Debug\net6.0\refint\assesment.dll
+C:\Users\draparthi\source\repos\assesment\obj\Debug\net6.0\assesment.pdb
+C:\Users\draparthi\source\repos\assesment\obj\Debug\net6.0\assesment.genruntimeconfig.cache
+C:\Users\draparthi\source\repos\assesment\obj\Debug\net6.0\ref\assesment.dll

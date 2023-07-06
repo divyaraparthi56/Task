@@ -1,0 +1,15 @@
+C:\Users\draparthi\source\repos\nullables\bin\Debug\net6.0\nullables.exe
+C:\Users\draparthi\source\repos\nullables\bin\Debug\net6.0\nullables.deps.json
+C:\Users\draparthi\source\repos\nullables\bin\Debug\net6.0\nullables.runtimeconfig.json
+C:\Users\draparthi\source\repos\nullables\bin\Debug\net6.0\nullables.dll
+C:\Users\draparthi\source\repos\nullables\bin\Debug\net6.0\nullables.pdb
+C:\Users\draparthi\source\repos\nullables\obj\Debug\net6.0\nullables.csproj.AssemblyReference.cache
+C:\Users\draparthi\source\repos\nullables\obj\Debug\net6.0\nullables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draparthi\source\repos\nullables\obj\Debug\net6.0\nullables.AssemblyInfoInputs.cache
+C:\Users\draparthi\source\repos\nullables\obj\Debug\net6.0\nullables.AssemblyInfo.cs
+C:\Users\draparthi\source\repos\nullables\obj\Debug\net6.0\nullables.csproj.CoreCompileInputs.cache
+C:\Users\draparthi\source\repos\nullables\obj\Debug\net6.0\nullables.dll
+C:\Users\draparthi\source\repos\nullables\obj\Debug\net6.0\refint\nullables.dll
+C:\Users\draparthi\source\repos\nullables\obj\Debug\net6.0\nullables.pdb
+C:\Users\draparthi\source\repos\nullables\obj\Debug\net6.0\nullables.genruntimeconfig.cache
+C:\Users\draparthi\source\repos\nullables\obj\Debug\net6.0\ref\nullables.dll

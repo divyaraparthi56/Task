@@ -1,0 +1,17 @@
+C:\Users\draparthi\source\repos\C#TRAINING\bin\Debug\net6.0\C#TRAINING.exe
+C:\Users\draparthi\source\repos\C#TRAINING\bin\Debug\net6.0\C#TRAINING.deps.json
+C:\Users\draparthi\source\repos\C#TRAINING\bin\Debug\net6.0\C#TRAINING.runtimeconfig.json
+C:\Users\draparthi\source\repos\C#TRAINING\bin\Debug\net6.0\C#TRAINING.dll
+C:\Users\draparthi\source\repos\C#TRAINING\bin\Debug\net6.0\C#TRAINING.pdb
+C:\Users\draparthi\source\repos\C#TRAINING\obj\Debug\net6.0\C#TRAINING.csproj.AssemblyReference.cache
+C:\Users\draparthi\source\repos\C#TRAINING\obj\Debug\net6.0\C#TRAINING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draparthi\source\repos\C#TRAINING\obj\Debug\net6.0\C#TRAINING.AssemblyInfoInputs.cache
+C:\Users\draparthi\source\repos\C#TRAINING\obj\Debug\net6.0\C#TRAINING.AssemblyInfo.cs
+C:\Users\draparthi\source\repos\C#TRAINING\obj\Debug\net6.0\C#TRAINING.csproj.CoreCompileInputs.cache
+C:\Users\draparthi\source\repos\C#TRAINING\obj\Debug\net6.0\C#TRAINING.dll
+C:\Users\draparthi\source\repos\C#TRAINING\obj\Debug\net6.0\refint\C#TRAINING.dll
+C:\Users\draparthi\source\repos\C#TRAINING\obj\Debug\net6.0\C#TRAINING.pdb
+C:\Users\draparthi\source\repos\C#TRAINING\obj\Debug\net6.0\C#TRAINING.genruntimeconfig.cache
+C:\Users\draparthi\source\repos\C#TRAINING\obj\Debug\net6.0\ref\C#TRAINING.dll
+C:\Users\draparthi\source\repos\C#TRAINING\bin\Debug\net6.0\DryIoc.dll
+C:\Users\draparthi\source\repos\C#TRAINING\obj\Debug\net6.0\C#TRAINING.csproj.CopyComplete

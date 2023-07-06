@@ -1,0 +1,15 @@
+C:\Users\draparthi\source\repos\fileopen1\bin\Debug\net6.0\fileopen1.exe
+C:\Users\draparthi\source\repos\fileopen1\bin\Debug\net6.0\fileopen1.deps.json
+C:\Users\draparthi\source\repos\fileopen1\bin\Debug\net6.0\fileopen1.runtimeconfig.json
+C:\Users\draparthi\source\repos\fileopen1\bin\Debug\net6.0\fileopen1.dll
+C:\Users\draparthi\source\repos\fileopen1\bin\Debug\net6.0\fileopen1.pdb
+C:\Users\draparthi\source\repos\fileopen1\obj\Debug\net6.0\fileopen1.csproj.AssemblyReference.cache
+C:\Users\draparthi\source\repos\fileopen1\obj\Debug\net6.0\fileopen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draparthi\source\repos\fileopen1\obj\Debug\net6.0\fileopen1.AssemblyInfoInputs.cache
+C:\Users\draparthi\source\repos\fileopen1\obj\Debug\net6.0\fileopen1.AssemblyInfo.cs
+C:\Users\draparthi\source\repos\fileopen1\obj\Debug\net6.0\fileopen1.csproj.CoreCompileInputs.cache
+C:\Users\draparthi\source\repos\fileopen1\obj\Debug\net6.0\fileopen1.dll
+C:\Users\draparthi\source\repos\fileopen1\obj\Debug\net6.0\refint\fileopen1.dll
+C:\Users\draparthi\source\repos\fileopen1\obj\Debug\net6.0\fileopen1.pdb
+C:\Users\draparthi\source\repos\fileopen1\obj\Debug\net6.0\fileopen1.genruntimeconfig.cache
+C:\Users\draparthi\source\repos\fileopen1\obj\Debug\net6.0\ref\fileopen1.dll

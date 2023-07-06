@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C#TRAINING/1.0.0": {
+        "dependencies": {
+          "DryIoc.dll": "5.4.0"
+        },
+        "runtime": {
+          "C#TRAINING.dll": {}
+        }
+      },
+      "DryIoc.dll/5.4.0": {
+        "runtime": {
+          "lib/net6.0/DryIoc.dll": {
+            "assemblyVersion": "5.4.0.0",
+            "fileVersion": "5.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#TRAINING/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DryIoc.dll/5.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B1uyd664Bt4t4tpI2/0iWLMM0/V5AnBRm+UWSrC1GvXbqWL1Mv7fVictvTk99UvlQ2l3FFu1aaikqOfUoW2oDg==",
+      "path": "dryioc.dll/5.4.0",
+      "hashPath": "dryioc.dll.5.4.0.nupkg.sha512"
+    }
+  }
+}

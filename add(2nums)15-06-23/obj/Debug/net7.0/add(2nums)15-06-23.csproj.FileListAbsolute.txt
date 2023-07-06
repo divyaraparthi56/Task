@@ -1,0 +1,15 @@
+C:\Users\draparthi\source\repos\add(2nums)15-06-23\obj\Debug\net7.0\add(2nums)15-06-23.csproj.AssemblyReference.cache
+C:\Users\draparthi\source\repos\add(2nums)15-06-23\obj\Debug\net7.0\add(2nums)15-06-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draparthi\source\repos\add(2nums)15-06-23\obj\Debug\net7.0\add(2nums)15-06-23.AssemblyInfoInputs.cache
+C:\Users\draparthi\source\repos\add(2nums)15-06-23\obj\Debug\net7.0\add(2nums)15-06-23.AssemblyInfo.cs
+C:\Users\draparthi\source\repos\add(2nums)15-06-23\obj\Debug\net7.0\add(2nums)15-06-23.csproj.CoreCompileInputs.cache
+C:\Users\draparthi\source\repos\add(2nums)15-06-23\bin\Debug\net7.0\add(2nums)15-06-23.exe
+C:\Users\draparthi\source\repos\add(2nums)15-06-23\bin\Debug\net7.0\add(2nums)15-06-23.deps.json
+C:\Users\draparthi\source\repos\add(2nums)15-06-23\bin\Debug\net7.0\add(2nums)15-06-23.runtimeconfig.json
+C:\Users\draparthi\source\repos\add(2nums)15-06-23\bin\Debug\net7.0\add(2nums)15-06-23.dll
+C:\Users\draparthi\source\repos\add(2nums)15-06-23\bin\Debug\net7.0\add(2nums)15-06-23.pdb
+C:\Users\draparthi\source\repos\add(2nums)15-06-23\obj\Debug\net7.0\add(2nums)15-06-23.dll
+C:\Users\draparthi\source\repos\add(2nums)15-06-23\obj\Debug\net7.0\refint\add(2nums)15-06-23.dll
+C:\Users\draparthi\source\repos\add(2nums)15-06-23\obj\Debug\net7.0\add(2nums)15-06-23.pdb
+C:\Users\draparthi\source\repos\add(2nums)15-06-23\obj\Debug\net7.0\add(2nums)15-06-23.genruntimeconfig.cache
+C:\Users\draparthi\source\repos\add(2nums)15-06-23\obj\Debug\net7.0\ref\add(2nums)15-06-23.dll

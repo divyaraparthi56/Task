@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\07-06-23(webapi task1).props" />
+</Project>

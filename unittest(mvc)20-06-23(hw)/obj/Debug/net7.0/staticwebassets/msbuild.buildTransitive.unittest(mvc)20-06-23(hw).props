@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\unittest(mvc)20-06-23(hw).props" />
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\draparthi\source\repos\student(20-06-2023)unit(mock)test\bin\Debug\net7.0\student(20-06-2023)unit(mock)test.exe
+C:\Users\draparthi\source\repos\student(20-06-2023)unit(mock)test\bin\Debug\net7.0\student(20-06-2023)unit(mock)test.deps.json
+C:\Users\draparthi\source\repos\student(20-06-2023)unit(mock)test\bin\Debug\net7.0\student(20-06-2023)unit(mock)test.runtimeconfig.json
+C:\Users\draparthi\source\repos\student(20-06-2023)unit(mock)test\bin\Debug\net7.0\student(20-06-2023)unit(mock)test.dll
+C:\Users\draparthi\source\repos\student(20-06-2023)unit(mock)test\bin\Debug\net7.0\student(20-06-2023)unit(mock)test.pdb
+C:\Users\draparthi\source\repos\student(20-06-2023)unit(mock)test\obj\Debug\net7.0\student(20-06-2023)unit(mock)test.csproj.AssemblyReference.cache
+C:\Users\draparthi\source\repos\student(20-06-2023)unit(mock)test\obj\Debug\net7.0\student(20-06-2023)unit(mock)test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draparthi\source\repos\student(20-06-2023)unit(mock)test\obj\Debug\net7.0\student(20-06-2023)unit(mock)test.AssemblyInfoInputs.cache
+C:\Users\draparthi\source\repos\student(20-06-2023)unit(mock)test\obj\Debug\net7.0\student(20-06-2023)unit(mock)test.AssemblyInfo.cs
+C:\Users\draparthi\source\repos\student(20-06-2023)unit(mock)test\obj\Debug\net7.0\student(20-06-2023)unit(mock)test.csproj.CoreCompileInputs.cache
+C:\Users\draparthi\source\repos\student(20-06-2023)unit(mock)test\obj\Debug\net7.0\student(20-06-2023)unit(mock)test.dll
+C:\Users\draparthi\source\repos\student(20-06-2023)unit(mock)test\obj\Debug\net7.0\refint\student(20-06-2023)unit(mock)test.dll
+C:\Users\draparthi\source\repos\student(20-06-2023)unit(mock)test\obj\Debug\net7.0\student(20-06-2023)unit(mock)test.pdb
+C:\Users\draparthi\source\repos\student(20-06-2023)unit(mock)test\obj\Debug\net7.0\student(20-06-2023)unit(mock)test.genruntimeconfig.cache
+C:\Users\draparthi\source\repos\student(20-06-2023)unit(mock)test\obj\Debug\net7.0\ref\student(20-06-2023)unit(mock)test.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "classlibrary(04-07-23)/1.0.0": {
+        "dependencies": {
+          "ParentLib": "1.0.0"
+        },
+        "runtime": {
+          "classlibrary(04-07-23).dll": {}
+        }
+      },
+      "ParentLib/1.0.0": {
+        "runtime": {
+          "ParentLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "classlibrary(04-07-23)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParentLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

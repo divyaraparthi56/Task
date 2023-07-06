@@ -1,0 +1,15 @@
+C:\Users\draparthi\source\repos\FileExamples\bin\Debug\net6.0\FileExamples.exe
+C:\Users\draparthi\source\repos\FileExamples\bin\Debug\net6.0\FileExamples.deps.json
+C:\Users\draparthi\source\repos\FileExamples\bin\Debug\net6.0\FileExamples.runtimeconfig.json
+C:\Users\draparthi\source\repos\FileExamples\bin\Debug\net6.0\FileExamples.dll
+C:\Users\draparthi\source\repos\FileExamples\bin\Debug\net6.0\FileExamples.pdb
+C:\Users\draparthi\source\repos\FileExamples\obj\Debug\net6.0\FileExamples.csproj.AssemblyReference.cache
+C:\Users\draparthi\source\repos\FileExamples\obj\Debug\net6.0\FileExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draparthi\source\repos\FileExamples\obj\Debug\net6.0\FileExamples.AssemblyInfoInputs.cache
+C:\Users\draparthi\source\repos\FileExamples\obj\Debug\net6.0\FileExamples.AssemblyInfo.cs
+C:\Users\draparthi\source\repos\FileExamples\obj\Debug\net6.0\FileExamples.csproj.CoreCompileInputs.cache
+C:\Users\draparthi\source\repos\FileExamples\obj\Debug\net6.0\FileExamples.dll
+C:\Users\draparthi\source\repos\FileExamples\obj\Debug\net6.0\refint\FileExamples.dll
+C:\Users\draparthi\source\repos\FileExamples\obj\Debug\net6.0\FileExamples.pdb
+C:\Users\draparthi\source\repos\FileExamples\obj\Debug\net6.0\FileExamples.genruntimeconfig.cache
+C:\Users\draparthi\source\repos\FileExamples\obj\Debug\net6.0\ref\FileExamples.dll
